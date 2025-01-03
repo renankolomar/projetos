@@ -77,6 +77,7 @@ header {
     flex-flow: row nowrap;
     flex: 0 0 auto;
     align-items: center;
+    padding-right: 25px;
 }
 
 .menu {
