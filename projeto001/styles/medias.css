@@ -1,0 +1,15 @@
+@media screen and (max-width: 1200px) {
+    main {
+        grid-template-areas: 
+        "main-news      main-news"
+        "side-news-1    side-news-2";
+    }
+
+    .main-news {
+        height: 400px;
+    }
+
+    .side-news-1, .side-news-2 {
+        height: 200px;
+    }
+}
